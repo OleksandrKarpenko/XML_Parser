@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetBankruptcyDataResponse xmlns="https://teletrack.americaninfosource.com/BankruptcyDataService">
+    <GetBankruptcyDataResult>
+        <TransactionId>14111469</TransactionId>
+        <Status>Success</Status>
+        <Message/>
+        <ReferenceCode/>
+        <Bankruptcies>
+            <Bankruptcy>
+                <CaseId>400037489</CaseId>
+                <FilingStatus>Dismissal</FilingStatus>
+                <StatusDate>0001-01-01T00:00:00</StatusDate>
+                <CaseNumber>98-01462</CaseNumber>
+                <ConversionDate>0001-01-01T00:00:00</ConversionDate>
+                <TerminationDate>1998-08-12T00:00:00</TerminationDate>
+                <FilingDate>1998-07-02T00:00:00</FilingDate>
+                <Chapter>13</Chapter>
+                <OriginalChapter>13</OriginalChapter>
+                <Judge>S. MARTIN TEEL JR.</Judge>
+                <JudgesInitials>ST </JudgesInitials>
+                <AssetsAvailable>Yes</AssetsAvailable>
+                <ProSeIndicator>false</ProSeIndicator>
+                <ConfirmationHearingDate>0001-01-01T00:00:00</ConfirmationHearingDate>
+                <ComplaintDeadline>0001-01-01T00:00:00</ComplaintDeadline>
+                <ProofOfClaimDate>0001-01-01T00:00:00</ProofOfClaimDate>
+                <PlanConfirmationDate>0001-01-01T00:00:00</PlanConfirmationDate>
+                <CaseInReview>false</CaseInReview>
+                <ReaffirmationHearingDate>0001-01-01T00:00:00</ReaffirmationHearingDate>
+                <ObjectionToConfirmationDate>0001-01-01T00:00:00</ObjectionToConfirmationDate>
+                <Attorney>
+                    <Firm/>
+                </Attorney>
+                <Court>
+                    <Name>DC - MAIN - WASHINGTON</Name>
+                    <ShortName>DCMAWASH</ShortName>
+                    <StreetLine1>333 CONSTITUTION AVENUE NW #4400</StreetLine1>
+                    <StreetLine2/>
+                    <City>WASHINGTON</City>
+                    <State>DC</State>
+                    <Zip>20001</Zip>
+                    <Zip4/>
+                </Court>
+                <Debtors>
+                    <Debtor>
+                        <Prefix/>
+                        <FirstName>BONNIE</FirstName>
+                        <MiddleName/>
+                        <LastName>MOORE</LastName>
+                        <Suffix/>
+                        <Type>Primary</Type>
+                        <SSN>529603818</SSN>
+                        <Address>
+                            <AddressNumber>3315</AddressNumber>
+                            <AddressPreDirection/>
+                            <AddressStreetName>12TH</AddressStreetName>
+                            <AddressSuffix>ST</AddressSuffix>
+                            <AddressPostDirection>NE</AddressPostDirection>
+                            <AddressSuiteName/>
+                            <AddressSuiteNumber/>
+                            <AddressCity>WASHINGTON</AddressCity>
+                            <AddressState>DC</AddressState>
+                            <AddressZip>20017</AddressZip>
+                            <AddressZip4>4008</AddressZip4>
+                        </Address>
+                    </Debtor>
+                </Debtors>
+            </Bankruptcy>
+            <Bankruptcy>
+                <CaseId>400569903</CaseId>
+                <FilingStatus>Dismissal</FilingStatus>
+                <StatusDate>0001-01-01T00:00:00</StatusDate>
+                <CaseNumber>98-33323</CaseNumber>
+                <ConversionDate>0001-01-01T00:00:00</ConversionDate>
+                <TerminationDate>1999-01-07T00:00:00</TerminationDate>
+                <FilingDate>1998-07-28T00:00:00</FilingDate>
+                <Chapter>13</Chapter>
+                <OriginalChapter>13</OriginalChapter>
+                <Judge>THOMAS E. CARLSON</Judge>
+                <JudgesInitials>TEC</JudgesInitials>
+                <AssetsAvailable>Yes</AssetsAvailable>
+                <ProSeIndicator>false</ProSeIndicator>
+                <ConfirmationHearingDate>0001-01-01T00:00:00</ConfirmationHearingDate>
+                <ComplaintDeadline>0001-01-01T00:00:00</ComplaintDeadline>
+                <ProofOfClaimDate>0001-01-01T00:00:00</ProofOfClaimDate>
+                <PlanConfirmationDate>0001-01-01T00:00:00</PlanConfirmationDate>
+                <CaseInReview>false</CaseInReview>
+                <ReaffirmationHearingDate>0001-01-01T00:00:00</ReaffirmationHearingDate>
+                <ObjectionToConfirmationDate>0001-01-01T00:00:00</ObjectionToConfirmationDate>
+                <Attorney>
+                    <Name>NEIL ROSENBAUM</Name>
+                    <Firm>LAW OFFICES OF NEIL ROSENBAUM</Firm>
+                    <Address>
+                        <AddressNumber>247</AddressNumber>
+                        <AddressPreDirection/>
+                        <AddressStreetName>HARTFORD</AddressStreetName>
+                        <AddressSuffix>ST</AddressSuffix>
+                        <AddressPostDirection/>
+                        <AddressSuiteName/>
+                        <AddressSuiteNumber/>
+                        <AddressCity>SAN FRANCISCO</AddressCity>
+                        <AddressState>CA</AddressState>
+                        <AddressZip>94114</AddressZip>
+                        <AddressZip4>2525</AddressZip4>
+                    </Address>
+                    <Phone>4156265432</Phone>
+                </Attorney>
+                <Trustee>
+                    <Name>DAVID BURCHARD</Name>
+                    <Address>
+                        <AddressNumber>8059</AddressNumber>
+                        <AddressPreDirection/>
+                        <AddressStreetName>PO BOX</AddressStreetName>
+                        <AddressSuffix/>
+                        <AddressPostDirection/>
+                        <AddressSuiteName/>
+                        <AddressSuiteNumber/>
+                        <AddressCity>FOSTER CITY</AddressCity>
+                        <AddressState>CA</AddressState>
+                        <AddressZip>94404</AddressZip>
+                        <AddressZip4>8059</AddressZip4>
+                    </Address>
+                    <Phone>6503457801</Phone>
+                </Trustee>
+                <Court>
+                    <Name>CA - NORTHERN - SAN FRANCISCO</Name>
+                    <ShortName>CANOSANF</ShortName>
+                    <StreetLine1>235 PINE STREET</StreetLine1>
+                    <StreetLine2/>
+                    <City>SAN FRANCISCO</City>
+                    <State>CA</State>
+                    <Zip>94104</Zip>
+                    <Zip4/>
+                </Court>
+                <Debtors>
+                    <Debtor>
+                        <Prefix/>
+                        <FirstName>BONNIE</FirstName>
+                        <MiddleName/>
+                        <LastName>MOORE</LastName>
+                        <Suffix/>
+                        <Type>Primary</Type>
+                        <SSN>529603818</SSN>
+                        <Address>
+                            <AddressNumber>44</AddressNumber>
+                            <AddressPreDirection/>
+                            <AddressStreetName>WHITNEY</AddressStreetName>
+                            <AddressSuffix>ST</AddressSuffix>
+                            <AddressPostDirection/>
+                            <AddressSuiteName/>
+                            <AddressSuiteNumber/>
+                            <AddressCity>SAN FRANCISCO</AddressCity>
+                            <AddressState>CA</AddressState>
+                            <AddressZip>94131</AddressZip>
+                            <AddressZip4>2743</AddressZip4>
+                        </Address>
+                    </Debtor>
+                </Debtors>
+            </Bankruptcy>
+            <Bankruptcy>
+                <CaseId>400670063</CaseId>
+                <FilingStatus>Dismissal</FilingStatus>
+                <StatusDate>0001-01-01T00:00:00</StatusDate>
+                <CaseNumber>99-30645</CaseNumber>
+                <ConversionDate>0001-01-01T00:00:00</ConversionDate>
+                <TerminationDate>1999-05-05T00:00:00</TerminationDate>
+                <FilingDate>1999-03-02T00:00:00</FilingDate>
+                <Chapter>13</Chapter>
+                <OriginalChapter>13</OriginalChapter>
+                <Judge>THOMAS E. CARLSON</Judge>
+                <JudgesInitials>TEC</JudgesInitials>
+                <AssetsAvailable>Yes</AssetsAvailable>
+                <ProSeIndicator>false</ProSeIndicator>
+                <ConfirmationHearingDate>0001-01-01T00:00:00</ConfirmationHearingDate>
+                <ComplaintDeadline>0001-01-01T00:00:00</ComplaintDeadline>
+                <ProofOfClaimDate>0001-01-01T00:00:00</ProofOfClaimDate>
+                <PlanConfirmationDate>0001-01-01T00:00:00</PlanConfirmationDate>
+                <CaseInReview>false</CaseInReview>
+                <ReaffirmationHearingDate>0001-01-01T00:00:00</ReaffirmationHearingDate>
+                <ObjectionToConfirmationDate>0001-01-01T00:00:00</ObjectionToConfirmationDate>
+                <Attorney>
+                    <Name>NEIL ROSENBAUM</Name>
+                    <Firm>LAW OFFICES OF NEIL ROSENBAUM</Firm>
+                    <Address>
+                        <AddressNumber>247</AddressNumber>
+                        <AddressPreDirection/>
+                        <AddressStreetName>HARTFORD</AddressStreetName>
+                        <AddressSuffix>ST</AddressSuffix>
+                        <AddressPostDirection/>
+                        <AddressSuiteName/>
+                        <AddressSuiteNumber/>
+                        <AddressCity>SAN FRANCISCO</AddressCity>
+                        <AddressState>CA</AddressState>
+                        <AddressZip>94114</AddressZip>
+                        <AddressZip4>2525</AddressZip4>
+                    </Address>
+                    <Phone>4156265432</Phone>
+                </Attorney>
+                <Trustee>
+                    <Name>DAVID BURCHARD</Name>
+                    <Address>
+                        <AddressNumber>8059</AddressNumber>
+                        <AddressPreDirection/>
+                        <AddressStreetName>PO BOX</AddressStreetName>
+                        <AddressSuffix/>
+                        <AddressPostDirection/>
+                        <AddressSuiteName/>
+                        <AddressSuiteNumber/>
+                        <AddressCity>FOSTER CITY</AddressCity>
+                        <AddressState>CA</AddressState>
+                        <AddressZip>94404</AddressZip>
+                        <AddressZip4>8059</AddressZip4>
+                    </Address>
+                    <Phone>6503457801</Phone>
+                </Trustee>
+                <Court>
+                    <Name>CA - NORTHERN - SAN FRANCISCO</Name>
+                    <ShortName>CANOSANF</ShortName>
+                    <StreetLine1>235 PINE STREET</StreetLine1>
+                    <StreetLine2/>
+                    <City>SAN FRANCISCO</City>
+                    <State>CA</State>
+                    <Zip>94104</Zip>
+                    <Zip4/>
+                </Court>
+                <Debtors>
+                    <Debtor>
+                        <Prefix/>
+                        <FirstName>BONNIE</FirstName>
+                        <MiddleName/>
+                        <LastName>MOORE</LastName>
+                        <Suffix/>
+                        <Type>Primary</Type>
+                        <SSN>529603818</SSN>
+                        <Address>
+                            <AddressNumber>44</AddressNumber>
+                            <AddressPreDirection/>
+                            <AddressStreetName>WHITNEY</AddressStreetName>
+                            <AddressSuffix>ST</AddressSuffix>
+                            <AddressPostDirection/>
+                            <AddressSuiteName/>
+                            <AddressSuiteNumber/>
+                            <AddressCity>SAN FRANCISCO</AddressCity>
+                            <AddressState>CA</AddressState>
+                            <AddressZip>94131</AddressZip>
+                            <AddressZip4>2743</AddressZip4>
+                        </Address>
+                    </Debtor>
+                </Debtors>
+            </Bankruptcy>
+            <Bankruptcy>
+                <CaseId>400719498</CaseId>
+                <FilingStatus>Dismissal</FilingStatus>
+                <StatusDate>0001-01-01T00:00:00</StatusDate>
+                <CaseNumber>99-31980</CaseNumber>
+                <ConversionDate>0001-01-01T00:00:00</ConversionDate>
+                <TerminationDate>1999-07-12T00:00:00</TerminationDate>
+                <FilingDate>1999-06-10T00:00:00</FilingDate>
+                <Chapter>13</Chapter>
+                <OriginalChapter>13</OriginalChapter>
+                <Judge>THOMAS E. CARLSON</Judge>
+                <JudgesInitials>TEC</JudgesInitials>
+                <AssetsAvailable>Yes</AssetsAvailable>
+                <ProSeIndicator>false</ProSeIndicator>
+                <ConfirmationHearingDate>0001-01-01T00:00:00</ConfirmationHearingDate>
+                <ComplaintDeadline>0001-01-01T00:00:00</ComplaintDeadline>
+                <ProofOfClaimDate>0001-01-01T00:00:00</ProofOfClaimDate>
+                <PlanConfirmationDate>0001-01-01T00:00:00</PlanConfirmationDate>
+                <CaseInReview>false</CaseInReview>
+                <ReaffirmationHearingDate>0001-01-01T00:00:00</ReaffirmationHearingDate>
+                <ObjectionToConfirmationDate>0001-01-01T00:00:00</ObjectionToConfirmationDate>
+                <Attorney>
+                    <Name>NEIL ROSENBAUM</Name>
+                    <Firm>LAW OFFICES OF NEIL ROSENBAUM</Firm>
+                    <Address>
+                        <AddressNumber>247</AddressNumber>
+                        <AddressPreDirection/>
+                        <AddressStreetName>HARTFORD</AddressStreetName>
+                        <AddressSuffix>ST</AddressSuffix>
+                        <AddressPostDirection/>
+                        <AddressSuiteName/>
+                        <AddressSuiteNumber/>
+                        <AddressCity>SAN FRANCISCO</AddressCity>
+                        <AddressState>CA</AddressState>
+                        <AddressZip>94114</AddressZip>
+                        <AddressZip4>2525</AddressZip4>
+                    </Address>
+                    <Phone>4156265432</Phone>
+                </Attorney>
+                <Trustee>
+                    <Name>DAVID BURCHARD</Name>
+                    <Address>
+                        <AddressNumber>8059</AddressNumber>
+                        <AddressPreDirection/>
+                        <AddressStreetName>PO BOX</AddressStreetName>
+                        <AddressSuffix/>
+                        <AddressPostDirection/>
+                        <AddressSuiteName/>
+                        <AddressSuiteNumber/>
+                        <AddressCity>FOSTER CITY</AddressCity>
+                        <AddressState>CA</AddressState>
+                        <AddressZip>94404</AddressZip>
+                        <AddressZip4>8059</AddressZip4>
+                    </Address>
+                    <Phone>6503457801</Phone>
+                </Trustee>
+                <Court>
+                    <Name>CA - NORTHERN - SAN FRANCISCO</Name>
+                    <ShortName>CANOSANF</ShortName>
+                    <StreetLine1>235 PINE STREET</StreetLine1>
+                    <StreetLine2/>
+                    <City>SAN FRANCISCO</City>
+                    <State>CA</State>
+                    <Zip>94104</Zip>
+                    <Zip4/>
+                </Court>
+                <Debtors>
+                    <Debtor>
+                        <Prefix/>
+                        <FirstName>BONNIE</FirstName>
+                        <MiddleName/>
+                        <LastName>MOORE</LastName>
+                        <Suffix/>
+                        <Type>Primary</Type>
+                        <SSN>529603818</SSN>
+                        <Address>
+                            <AddressNumber>44</AddressNumber>
+                            <AddressPreDirection/>
+                            <AddressStreetName>WHITNEY</AddressStreetName>
+                            <AddressSuffix>ST</AddressSuffix>
+                            <AddressPostDirection/>
+                            <AddressSuiteName/>
+                            <AddressSuiteNumber/>
+                            <AddressCity>SAN FRANCISCO</AddressCity>
+                            <AddressState>CA</AddressState>
+                            <AddressZip>94131</AddressZip>
+                            <AddressZip4>2743</AddressZip4>
+                        </Address>
+                    </Debtor>
+                </Debtors>
+            </Bankruptcy>
+            <Bankruptcy>
+                <CaseId>530373110</CaseId>
+                <FilingStatus>Discharged</FilingStatus>
+                <StatusDate>1994-02-08T00:00:00</StatusDate>
+                <CaseNumber>93-34121</CaseNumber>
+                <ConversionDate>0001-01-01T00:00:00</ConversionDate>
+                <TerminationDate>1998-03-24T00:00:00</TerminationDate>
+                <FilingDate>1993-09-15T00:00:00</FilingDate>
+                <Chapter>7</Chapter>
+                <OriginalChapter>7</OriginalChapter>
+                <Judge>CARLSON</Judge>
+                <JudgesInitials>C  </JudgesInitials>
+                <AssetsAvailable>Yes</AssetsAvailable>
+                <ProSeIndicator>false</ProSeIndicator>
+                <ConfirmationHearingDate>0001-01-01T00:00:00</ConfirmationHearingDate>
+                <ComplaintDeadline>0001-01-01T00:00:00</ComplaintDeadline>
+                <ProofOfClaimDate>0001-01-01T00:00:00</ProofOfClaimDate>
+                <PlanConfirmationDate>0001-01-01T00:00:00</PlanConfirmationDate>
+                <CaseInReview>false</CaseInReview>
+                <ReaffirmationHearingDate>0001-01-01T00:00:00</ReaffirmationHearingDate>
+                <ObjectionToConfirmationDate>0001-01-01T00:00:00</ObjectionToConfirmationDate>
+                <Attorney>
+                    <Firm/>
+                </Attorney>
+                <Trustee>
+                    <Name>DAMIR</Name>
+                    <Address>
+                        <AddressNumber/>
+                        <AddressPreDirection/>
+                        <AddressStreetName/>
+                        <AddressSuffix/>
+                        <AddressPostDirection/>
+                        <AddressSuiteName/>
+                        <AddressSuiteNumber/>
+                        <AddressCity/>
+                        <AddressState>  </AddressState>
+                        <AddressZip>     </AddressZip>
+                        <AddressZip4>    </AddressZip4>
+                    </Address>
+                    <Phone/>
+                </Trustee>
+                <Court>
+                    <Name>CA - NORTHERN - SAN FRANCISCO</Name>
+                    <ShortName>CANOSANF</ShortName>
+                    <StreetLine1>235 PINE STREET</StreetLine1>
+                    <StreetLine2/>
+                    <City>SAN FRANCISCO</City>
+                    <State>CA</State>
+                    <Zip>94104</Zip>
+                    <Zip4/>
+                </Court>
+                <Debtors>
+                    <Debtor>
+                        <Prefix/>
+                        <FirstName>BONNIE</FirstName>
+                        <MiddleName> </MiddleName>
+                        <LastName>MOORE</LastName>
+                        <Suffix/>
+                        <Type>Primary</Type>
+                        <SSN>529603818</SSN>
+                        <Address>
+                            <AddressNumber>44</AddressNumber>
+                            <AddressPreDirection/>
+                            <AddressStreetName>WHITNEY</AddressStreetName>
+                            <AddressSuffix>ST</AddressSuffix>
+                            <AddressPostDirection/>
+                            <AddressSuiteName/>
+                            <AddressSuiteNumber/>
+                            <AddressCity>SAN FRANCISCO</AddressCity>
+                            <AddressState>CA</AddressState>
+                            <AddressZip>94131</AddressZip>
+                            <AddressZip4>2743</AddressZip4>
+                        </Address>
+                    </Debtor>
+                </Debtors>
+            </Bankruptcy>
+            <Bankruptcy>
+                <CaseId>543283824</CaseId>
+                <FilingStatus>Dismissal</FilingStatus>
+                <StatusDate>2015-01-09T00:00:00</StatusDate>
+                <CaseNumber>13-30837</CaseNumber>
+                <ConversionDate>0001-01-01T00:00:00</ConversionDate>
+                <TerminationDate>2015-03-16T00:00:00</TerminationDate>
+                <FilingDate>2013-12-12T00:00:00</FilingDate>
+                <Chapter>13</Chapter>
+                <OriginalChapter>13</OriginalChapter>
+                <Judge>Lori S. Simpson</Judge>
+                <JudgesInitials>LSS</JudgesInitials>
+                <AssetsAvailable>Yes</AssetsAvailable>
+                <ProSeIndicator>false</ProSeIndicator>
+                <ConfirmationHearingDate>2014-11-25T10:00:00</ConfirmationHearingDate>
+                <ComplaintDeadline>2014-03-24T00:00:00</ComplaintDeadline>
+                <ProofOfClaimDate>2014-04-23T00:00:00</ProofOfClaimDate>
+                <PlanConfirmationDate>0001-01-01T00:00:00</PlanConfirmationDate>
+                <CaseInReview>false</CaseInReview>
+                <Meeting341>
+                    <Date>2014-01-23T00:00:00</Date>
+                    <Time>12:00:00</Time>
+                    <OriginalDate>2014-01-23T00:00:00</OriginalDate>
+                    <OriginalTime>12:00:00</OriginalTime>
+                    <StreetLine1>6305 IVY LN</StreetLine1>
+                    <StreetLine2>SUITE 619</StreetLine2>
+                    <City>GREENBELT</City>
+                    <State>MD</State>
+                    <Zip>20770</Zip>
+                    <Zip4/>
+                </Meeting341>
+                <ReaffirmationHearingDate>0001-01-01T00:00:00</ReaffirmationHearingDate>
+                <ObjectionToConfirmationDate>0001-01-01T00:00:00</ObjectionToConfirmationDate>
+                <Attorney>
+                    <Name>JONATHAN P MORGAN</Name>
+                    <Firm>MORGAN ROSE LLC</Firm>
+                    <Address>
+                        <AddressNumber>416</AddressNumber>
+                        <AddressPreDirection/>
+                        <AddressStreetName>HUNGERFORD</AddressStreetName>
+                        <AddressSuffix>DR</AddressSuffix>
+                        <AddressPostDirection/>
+                        <AddressSuiteName>STE</AddressSuiteName>
+                        <AddressSuiteNumber>233</AddressSuiteNumber>
+                        <AddressCity>ROCKVILLE</AddressCity>
+                        <AddressState>MD</AddressState>
+                        <AddressZip>20850</AddressZip>
+                        <AddressZip4>5150</AddressZip4>
+                    </Address>
+                    <Phone>3018382010</Phone>
+                </Attorney>
+                <Trustee>
+                    <Name>NANCY SPENCER GRIGSBY</Name>
+                    <Address>
+                        <AddressNumber>4201</AddressNumber>
+                        <AddressPreDirection/>
+                        <AddressStreetName>MITCHELLVILLE</AddressStreetName>
+                        <AddressSuffix>RD</AddressSuffix>
+                        <AddressPostDirection/>
+                        <AddressSuiteName>STE</AddressSuiteName>
+                        <AddressSuiteNumber>401</AddressSuiteNumber>
+                        <AddressCity>BOWIE</AddressCity>
+                        <AddressState>MD</AddressState>
+                        <AddressZip>20716</AddressZip>
+                        <AddressZip4>3164</AddressZip4>
+                    </Address>
+                    <Phone>3018054700</Phone>
+                </Trustee>
+                <Court>
+                    <Name>MD - MAIN - GREENBELT</Name>
+                    <ShortName>MDMAROCK</ShortName>
+                    <StreetLine1>6500 CHERRYWOOD LANE</StreetLine1>
+                    <StreetLine2>SUITE 300</StreetLine2>
+                    <City>GREENBELT</City>
+                    <State>MD</State>
+                    <Zip>20770</Zip>
+                    <Zip4/>
+                </Court>
+                <Debtors>
+                    <Debtor>
+                        <Prefix/>
+                        <FirstName>BONNIE</FirstName>
+                        <MiddleName> </MiddleName>
+                        <LastName>MOORE</LastName>
+                        <Suffix/>
+                        <Type>Primary</Type>
+                        <SSN>529603818</SSN>
+                        <Address>
+                            <AddressNumber>12130</AddressNumber>
+                            <AddressPreDirection/>
+                            <AddressStreetName>LONG RIDGE</AddressStreetName>
+                            <AddressSuffix>LN</AddressSuffix>
+                            <AddressPostDirection/>
+                            <AddressSuiteName/>
+                            <AddressSuiteNumber/>
+                            <AddressCity>BOWIE</AddressCity>
+                            <AddressState>MD</AddressState>
+                            <AddressZip>20715</AddressZip>
+                            <AddressZip4>2361</AddressZip4>
+                        </Address>
+                    </Debtor>
+                </Debtors>
+            </Bankruptcy>
+            <Bankruptcy>
+                <CaseId>545511218</CaseId>
+                <FilingStatus>Discharged</FilingStatus>
+                <StatusDate>2017-10-13T00:00:00</StatusDate>
+                <CaseNumber>16-30817</CaseNumber>
+                <ConversionDate>0001-01-01T00:00:00</ConversionDate>
+                <TerminationDate>2017-10-17T00:00:00</TerminationDate>
+                <FilingDate>2016-07-27T00:00:00</FilingDate>
+                <Chapter>7</Chapter>
+                <OriginalChapter>7</OriginalChapter>
+                <Judge>JUDGE HANNAH L. BLUMENSTIEL</Judge>
+                <JudgesInitials>HLB</JudgesInitials>
+                <AssetsAvailable>Yes</AssetsAvailable>
+                <ProSeIndicator>false</ProSeIndicator>
+                <ConfirmationHearingDate>0001-01-01T00:00:00</ConfirmationHearingDate>
+                <ComplaintDeadline>2016-10-24T00:00:00</ComplaintDeadline>
+                <ProofOfClaimDate>2016-11-22T00:00:00</ProofOfClaimDate>
+                <PlanConfirmationDate>0001-01-01T00:00:00</PlanConfirmationDate>
+                <CaseInReview>false</CaseInReview>
+                <Meeting341>
+                    <Date>2016-09-14T00:00:00</Date>
+                    <Time>10:00:00</Time>
+                    <OriginalDate>2016-08-24T00:00:00</OriginalDate>
+                    <OriginalTime>10:00:00</OriginalTime>
+                    <StreetLine1>250 MONTGOMERY</StreetLine1>
+                    <StreetLine2>SUITE 1010</StreetLine2>
+                    <City>SAN FRANCISCO</City>
+                    <State>CA</State>
+                    <Zip>     </Zip>
+                    <Zip4/>
+                </Meeting341>
+                <ReaffirmationHearingDate>0001-01-01T00:00:00</ReaffirmationHearingDate>
+                <ObjectionToConfirmationDate>0001-01-01T00:00:00</ObjectionToConfirmationDate>
+                <Attorney>
+                    <Name>JOSEPH ANGELO</Name>
+                    <Firm>SAGARIA LAW PC</Firm>
+                    <Address>
+                        <AddressNumber>3017</AddressNumber>
+                        <AddressPreDirection/>
+                        <AddressStreetName>DOUGLAS</AddressStreetName>
+                        <AddressSuffix>BLVD</AddressSuffix>
+                        <AddressPostDirection/>
+                        <AddressSuiteName>STE</AddressSuiteName>
+                        <AddressSuiteNumber>100</AddressSuiteNumber>
+                        <AddressCity>ROSEVILLE</AddressCity>
+                        <AddressState>CA</AddressState>
+                        <AddressZip>95661</AddressZip>
+                        <AddressZip4>3837</AddressZip4>
+                    </Address>
+                    <Phone>4082792288</Phone>
+                </Attorney>
+                <Trustee>
+                    <Name>BARRY MILGROM</Name>
+                    <Address>
+                        <AddressNumber>60</AddressNumber>
+                        <AddressPreDirection/>
+                        <AddressStreetName>29TH</AddressStreetName>
+                        <AddressSuffix>ST</AddressSuffix>
+                        <AddressPostDirection/>
+                        <AddressSuiteName/>
+                        <AddressSuiteNumber/>
+                        <AddressCity>SAN FRANCISCO</AddressCity>
+                        <AddressState>CA</AddressState>
+                        <AddressZip>94110</AddressZip>
+                        <AddressZip4>4929</AddressZip4>
+                    </Address>
+                    <Phone>4157962444</Phone>
+                </Trustee>
+                <Court>
+                    <Name>CA - NORTHERN - SAN FRANCISCO</Name>
+                    <ShortName>CANOSANF</ShortName>
+                    <StreetLine1>235 PINE STREET</StreetLine1>
+                    <StreetLine2/>
+                    <City>SAN FRANCISCO</City>
+                    <State>CA</State>
+                    <Zip>94104</Zip>
+                    <Zip4/>
+                </Court>
+                <Debtors>
+                    <Debtor>
+                        <Prefix/>
+                        <FirstName>BONNIE</FirstName>
+                        <MiddleName> </MiddleName>
+                        <LastName>MOORE</LastName>
+                        <Suffix/>
+                        <Type>Primary</Type>
+                        <SSN>529603818</SSN>
+                        <Address>
+                            <AddressNumber>12130</AddressNumber>
+                            <AddressPreDirection/>
+                            <AddressStreetName>LONG RIDGE</AddressStreetName>
+                            <AddressSuffix>LN</AddressSuffix>
+                            <AddressPostDirection/>
+                            <AddressSuiteName/>
+                            <AddressSuiteNumber/>
+                            <AddressCity>BOWIE</AddressCity>
+                            <AddressState>MD</AddressState>
+                            <AddressZip>20715</AddressZip>
+                            <AddressZip4>2361</AddressZip4>
+                        </Address>
+                    </Debtor>
+                </Debtors>
+            </Bankruptcy>
+        </Bankruptcies>
+    </GetBankruptcyDataResult>
+</GetBankruptcyDataResponse>
